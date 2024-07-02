@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Api\\BasicWepAPI.Api.csproj": {}
+    "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Api\\BasicWepAPI.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Api\\BasicWepAPI.Api.csproj": {
+    "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Api\\BasicWepAPI.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Api\\BasicWepAPI.Api.csproj",
+        "projectUniqueName": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Api\\BasicWepAPI.Api.csproj",
         "projectName": "BasicWepAPI.Api",
-        "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Api\\BasicWepAPI.Api.csproj",
+        "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Api\\BasicWepAPI.Api.csproj",
         "packagesPath": "C:\\Users\\simen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Api\\obj\\",
+        "outputPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\simen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Data\\BasicWepAPI.Data.csproj": {
-                "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Data\\BasicWepAPI.Data.csproj"
+              "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Data\\BasicWepAPI.Data.csproj": {
+                "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Data\\BasicWepAPI.Data.csproj"
               },
-              "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Services\\BasicWepAPI.Services.csproj": {
-                "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Services\\BasicWepAPI.Services.csproj"
+              "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Services\\BasicWepAPI.Services.csproj": {
+                "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Services\\BasicWepAPI.Services.csproj"
               }
             }
           }
@@ -109,14 +109,14 @@
         }
       }
     },
-    "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Core\\BasicWepAPI.Core.csproj": {
+    "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Core\\BasicWepAPI.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Core\\BasicWepAPI.Core.csproj",
+        "projectUniqueName": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Core\\BasicWepAPI.Core.csproj",
         "projectName": "BasicWepAPI.Core",
-        "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Core\\BasicWepAPI.Core.csproj",
+        "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Core\\BasicWepAPI.Core.csproj",
         "packagesPath": "C:\\Users\\simen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Core\\obj\\",
+        "outputPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\simen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -164,14 +164,14 @@
         }
       }
     },
-    "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Data\\BasicWepAPI.Data.csproj": {
+    "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Data\\BasicWepAPI.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Data\\BasicWepAPI.Data.csproj",
+        "projectUniqueName": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Data\\BasicWepAPI.Data.csproj",
         "projectName": "BasicWepAPI.Data",
-        "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Data\\BasicWepAPI.Data.csproj",
+        "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Data\\BasicWepAPI.Data.csproj",
         "packagesPath": "C:\\Users\\simen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Data\\obj\\",
+        "outputPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\simen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -188,8 +188,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Core\\BasicWepAPI.Core.csproj": {
-                "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Core\\BasicWepAPI.Core.csproj"
+              "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Core\\BasicWepAPI.Core.csproj": {
+                "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Core\\BasicWepAPI.Core.csproj"
               }
             }
           }
@@ -245,14 +245,14 @@
         }
       }
     },
-    "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Services\\BasicWepAPI.Services.csproj": {
+    "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Services\\BasicWepAPI.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Services\\BasicWepAPI.Services.csproj",
+        "projectUniqueName": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Services\\BasicWepAPI.Services.csproj",
         "projectName": "BasicWepAPI.Services",
-        "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Services\\BasicWepAPI.Services.csproj",
+        "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Services\\BasicWepAPI.Services.csproj",
         "packagesPath": "C:\\Users\\simen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Services\\obj\\",
+        "outputPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\simen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -269,8 +269,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Core\\BasicWepAPI.Core.csproj": {
-                "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Core\\BasicWepAPI.Core.csproj"
+              "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Core\\BasicWepAPI.Core.csproj": {
+                "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Core\\BasicWepAPI.Core.csproj"
               }
             }
           }

@@ -36,7 +36,12 @@ namespace BasicWepAPI.Data.Repositories
 
         public List<Contact> FilterContacts(int? countryId, int? companyId)
         {
-            if(countryId == null)
+            if (countryId == null && companyId == null)
+            {
+                return _context.Contacts.Include(x => x.Country).Include(x => x.Company).ToList();
+
+            }
+            if (countryId == null)
             {
                 return _context.Contacts.Include(x=>x.Country).Include(x => x.Company).Where(x => x.CompanyId == companyId).ToList();
 
@@ -46,7 +51,7 @@ namespace BasicWepAPI.Data.Repositories
                 return _context.Contacts.Include(x => x.Country).Include(x => x.Company).Where(x => x.CountryId == countryId).ToList();
 
             }
-            return _context.Contacts.Include(x=>x.Country).Include(x=>x.Company).Where(x=>x.CompanyId == companyId && x.CountryId == countryId).ToList();
+            return _context.Contacts.Include(x => x.Country).Include(x => x.Company).Where(x => x.CompanyId == companyId && x.CountryId == countryId).ToList();
         }
 
         public List<Contact> GetAll()

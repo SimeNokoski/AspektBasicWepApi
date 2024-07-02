@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jK+MRN4gFxNrzpH6qMKN+2mfWmE/c5NnGyfJwQt/H/lBfHpXiR7xM25SLIx8JbM1KJMcLHKugDIEjooEgWCuSw==",
+  "dgSpecHash": "P6pEG//I5U9czeSlN4w749vYZ7Prge8OTxLOhLGcF6ZHlm8IBOYYPgO4oebt9MuCiIKXDicRFpvjQd4F2Okbvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Services\\BasicWepAPI.Services.csproj",
+  "projectFilePath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Services\\BasicWepAPI.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\simen\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\simen\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",

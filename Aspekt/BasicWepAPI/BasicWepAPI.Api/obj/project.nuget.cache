@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S9uR1NyTeF3Wa7IFjVh9Ge1GnxphMzUmNsH+EPrZowwEq2NF0ucwb0PdTSmTO+C+cITLnzR88otVxd+LXUlA/g==",
+  "dgSpecHash": "3Ug98msmKw/gKYeGANjmsTTUo3U5kYmNhcdtO5QDwyIALzXfIbqVk2LUKKlKu141rS6G3NxkzgjWNzRkBRqD0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\BasicWepAPI\\BasicWepAPI.Api\\BasicWepAPI.Api.csproj",
+  "projectFilePath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\Aspekt\\BasicWepAPI\\BasicWepAPI.Api\\BasicWepAPI.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\simen\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\simen\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",

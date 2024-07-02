@@ -114,3 +114,29 @@ BasicWepAPI.Services.Helper.CustomExceptions.DataNotFoundException: Contact with
 13:46:01 [Information] () GetCompanyById successful for id 1
 
 14:07:10 [Information] () GetAllCompany successful
+
+19:41:45 [Information] () FilterContacts successful for countryId  and companyId 
+
+19:43:03 [Information] () GetAllContacts successful
+
+19:43:50 [Information] () FilterContacts successful for countryId  and companyId 
+
+19:44:25 [Information] () FilterContacts successful for countryId 2 and companyId 2
+
+19:44:30 [Information] () FilterContacts successful for countryId 1 and companyId 2
+
+19:44:39 [Information] () FilterContacts successful for countryId  and companyId 
+
+19:45:49 [Information] () FilterContacts successful for countryId  and companyId 
+
+19:46:14 [Information] () FilterContacts successful for countryId  and companyId 
+
+19:46:47 [Information] () FilterContacts successful for countryId  and companyId 
+
+19:47:59 [Information] () FilterContacts successful for countryId  and companyId 
+
+19:48:23 [Information] () FilterContacts successful for countryId 1 and companyId 
+
+19:48:57 [Information] () FilterContacts successful for countryId  and companyId 2
+
+19:49:08 [Information] () FilterContacts successful for countryId 1 and companyId 2

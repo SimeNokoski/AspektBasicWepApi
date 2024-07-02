@@ -32,3 +32,20 @@ C:\Users\simen\OneDrive\Desktop\Aspekt\BasicWepAPI\BasicWepAPI.Data\obj\Debug\ne
 C:\Users\simen\OneDrive\Desktop\Aspekt\BasicWepAPI\BasicWepAPI.Data\obj\Debug\net6.0\BasicWepAPI.Data.pdb
 C:\Users\simen\OneDrive\Desktop\Aspekt\BasicWepAPI\BasicWepAPI.Data\obj\Debug\net6.0\BasicWepAPI.Data.genruntimeconfig.cache
 C:\Users\simen\OneDrive\Desktop\Aspekt\BasicWepAPI\BasicWepAPI.Data\obj\Debug\net6.0\ref\BasicWepAPI.Data.dll
+C:\Users\simen\OneDrive\Desktop\Aspekt\New folder\AspektBasicWepApi\Aspekt\BasicWepAPI\BasicWepAPI.Data\bin\Debug\net6.0\BasicWepAPI.Data.deps.json
+C:\Users\simen\OneDrive\Desktop\Aspekt\New folder\AspektBasicWepApi\Aspekt\BasicWepAPI\BasicWepAPI.Data\bin\Debug\net6.0\BasicWepAPI.Data.runtimeconfig.json
+C:\Users\simen\OneDrive\Desktop\Aspekt\New folder\AspektBasicWepApi\Aspekt\BasicWepAPI\BasicWepAPI.Data\bin\Debug\net6.0\BasicWepAPI.Data.dll
+C:\Users\simen\OneDrive\Desktop\Aspekt\New folder\AspektBasicWepApi\Aspekt\BasicWepAPI\BasicWepAPI.Data\bin\Debug\net6.0\BasicWepAPI.Data.pdb
+C:\Users\simen\OneDrive\Desktop\Aspekt\New folder\AspektBasicWepApi\Aspekt\BasicWepAPI\BasicWepAPI.Data\bin\Debug\net6.0\BasicWepAPI.Core.dll
+C:\Users\simen\OneDrive\Desktop\Aspekt\New folder\AspektBasicWepApi\Aspekt\BasicWepAPI\BasicWepAPI.Data\bin\Debug\net6.0\BasicWepAPI.Core.pdb
+C:\Users\simen\OneDrive\Desktop\Aspekt\New folder\AspektBasicWepApi\Aspekt\BasicWepAPI\BasicWepAPI.Data\obj\Debug\net6.0\BasicWepAPI.Data.csproj.AssemblyReference.cache
+C:\Users\simen\OneDrive\Desktop\Aspekt\New folder\AspektBasicWepApi\Aspekt\BasicWepAPI\BasicWepAPI.Data\obj\Debug\net6.0\BasicWepAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simen\OneDrive\Desktop\Aspekt\New folder\AspektBasicWepApi\Aspekt\BasicWepAPI\BasicWepAPI.Data\obj\Debug\net6.0\BasicWepAPI.Data.AssemblyInfoInputs.cache
+C:\Users\simen\OneDrive\Desktop\Aspekt\New folder\AspektBasicWepApi\Aspekt\BasicWepAPI\BasicWepAPI.Data\obj\Debug\net6.0\BasicWepAPI.Data.AssemblyInfo.cs
+C:\Users\simen\OneDrive\Desktop\Aspekt\New folder\AspektBasicWepApi\Aspekt\BasicWepAPI\BasicWepAPI.Data\obj\Debug\net6.0\BasicWepAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\simen\OneDrive\Desktop\Aspekt\New folder\AspektBasicWepApi\Aspekt\BasicWepAPI\BasicWepAPI.Data\obj\Debug\net6.0\BasicWepAPI.Data.csproj.CopyComplete
+C:\Users\simen\OneDrive\Desktop\Aspekt\New folder\AspektBasicWepApi\Aspekt\BasicWepAPI\BasicWepAPI.Data\obj\Debug\net6.0\BasicWepAPI.Data.dll
+C:\Users\simen\OneDrive\Desktop\Aspekt\New folder\AspektBasicWepApi\Aspekt\BasicWepAPI\BasicWepAPI.Data\obj\Debug\net6.0\refint\BasicWepAPI.Data.dll
+C:\Users\simen\OneDrive\Desktop\Aspekt\New folder\AspektBasicWepApi\Aspekt\BasicWepAPI\BasicWepAPI.Data\obj\Debug\net6.0\BasicWepAPI.Data.pdb
+C:\Users\simen\OneDrive\Desktop\Aspekt\New folder\AspektBasicWepApi\Aspekt\BasicWepAPI\BasicWepAPI.Data\obj\Debug\net6.0\BasicWepAPI.Data.genruntimeconfig.cache
+C:\Users\simen\OneDrive\Desktop\Aspekt\New folder\AspektBasicWepApi\Aspekt\BasicWepAPI\BasicWepAPI.Data\obj\Debug\net6.0\ref\BasicWepAPI.Data.dll
