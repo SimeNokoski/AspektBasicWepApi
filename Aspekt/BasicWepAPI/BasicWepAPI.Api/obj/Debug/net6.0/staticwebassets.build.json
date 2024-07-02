@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WCaiGvFzTjlV23HkB9yr+S8A4N8peuaSk12eERu2TU0=",
+  "Source": "BasicWepAPI.Api",
+  "BasePath": "_content/BasicWepAPI.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

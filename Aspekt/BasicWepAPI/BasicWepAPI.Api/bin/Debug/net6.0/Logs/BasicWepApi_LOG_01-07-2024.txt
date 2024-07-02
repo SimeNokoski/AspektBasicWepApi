@@ -1,0 +1,94 @@
+
+00:45:29 [Error] () Data related error occurred
+
+00:59:34 [Warning] () Company not found in DeleteCompany
+BasicWepAPI.Services.Helper.CustomExceptions.DataNotFoundException: Company with 2121 was not found
+   at BasicWepAPI.Services.CompanyService.DeleteCompany(Int32 id) in C:\Users\simen\OneDrive\Desktop\Aspect\BasicWepAPI\BasicWepAPI.Services\CompanyService.cs:line 79
+   at BasicWepAPI.Api.Controllers.CompanyController.DeleteCompany(Int32 id) in C:\Users\simen\OneDrive\Desktop\Aspect\BasicWepAPI\BasicWepAPI.Api\Controllers\CompanyController.cs:line 119
+
+01:22:42 [Warning] () Country with id 32 not found
+BasicWepAPI.Services.Helper.CustomExceptions.DataNotFoundException: Country with 32 was not found
+   at BasicWepAPI.Services.CountryService.DeleteCountry(Int32 id) in C:\Users\simen\OneDrive\Desktop\Aspect\BasicWepAPI\BasicWepAPI.Services\CountryService.cs:line 34
+   at BasicWepAPI.Api.Controllers.CountryController.DeleteCountry(Int32 id) in C:\Users\simen\OneDrive\Desktop\Aspect\BasicWepAPI\BasicWepAPI.Api\Controllers\CountryController.cs:line 115
+
+01:22:49 [Information] () GetAllContacts successful
+
+03:03:24 [Information] () GetAllCompany successful
+
+13:57:33 [Information] () FilterContacts successful for countryId 2 and companyId 0
+
+13:57:53 [Information] () FilterContacts successful for countryId 2 and companyId 0
+
+16:21:49 [Information] () GetAllCompany successful
+
+16:41:17 [Information] () GetAllCompany successful
+
+20:05:05 [Information] () ContactWithCompanyAndCountry successful
+
+20:07:26 [Information] () FilterContacts successful for countryId 1 and companyId 1
+
+20:08:00 [Information] () FilterContacts successful for countryId 2 and companyId 1
+
+20:12:42 [Information] () FilterContacts successful for countryId 1 and companyId 2
+
+20:13:47 [Information] () FilterContacts successful for countryId 0 and companyId 8
+
+20:14:03 [Information] () FilterContacts successful for countryId 2 and companyId 0
+
+20:15:26 [Information] () FilterContacts successful for countryId 2 and companyId 0
+
+20:17:01 [Information] () FilterContacts successful for countryId 2 and companyId 0
+
+20:19:34 [Information] () FilterContacts successful for countryId 2 and companyId 0
+
+20:19:52 [Information] () FilterContacts successful for countryId 0 and companyId 2
+
+20:19:55 [Information] () FilterContacts successful for countryId 2 and companyId 2
+
+20:21:04 [Information] () FilterContacts successful for countryId 2 and companyId 0
+
+20:31:24 [Information] () FilterContacts successful for countryId 2 and companyId 0
+
+20:32:55 [Information] () FilterContacts successful for countryId 2 and companyId 0
+
+21:58:15 [Information] () FilterContacts successful for countryId 2 and companyId 0
+
+21:58:34 [Information] () FilterContacts successful for countryId 2 and companyId 2
+
+21:59:23 [Information] () FilterContacts successful for countryId 2 and companyId 2
+
+22:02:55 [Information] () FilterContacts successful for countryId 2 and companyId 2
+
+22:03:09 [Information] () FilterContacts successful for countryId 0 and companyId 2
+
+22:04:33 [Information] () FilterContacts successful for countryId 0 and companyId 2
+
+22:04:53 [Error] () Error in FilterContacts for countryId 0 and companyId 2
+
+22:05:59 [Information] () FilterContacts successful for countryId 0 and companyId 2
+
+22:07:30 [Error] () Error in FilterContacts for countryId 0 and companyId 2
+
+22:08:12 [Information] () FilterContacts successful for countryId 0 and companyId 2
+
+22:08:58 [Error] () Error in FilterContacts for countryId 0 and companyId 2
+
+22:09:52 [Information] () FilterContacts successful for countryId 0 and companyId 2
+
+22:10:12 [Information] () FilterContacts successful for countryId 2 and companyId 2
+
+22:10:22 [Information] () FilterContacts successful for countryId 3 and companyId 2
+
+22:10:29 [Information] () FilterContacts successful for countryId 0 and companyId 2
+
+22:10:39 [Information] () FilterContacts successful for countryId 4 and companyId 2
+
+22:11:09 [Information] () FilterContacts successful for countryId -2 and companyId 2
+
+22:11:40 [Information] () FilterContacts successful for countryId 0 and companyId 2
+
+22:23:59 [Information] () ContactWithCompanyAndCountry successful
+
+22:44:38 [Information] () FilterContacts successful for countryId  and companyId 2
+
+22:44:53 [Information] () FilterContacts successful for countryId 0 and companyId 2
