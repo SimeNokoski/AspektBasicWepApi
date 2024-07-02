@@ -1,4 +1,7 @@
 # Aspect-Basic Web API
+##Introduction
+## Backednd
+### proba tekst za ova
 ## CompanyControler
 ### Routes
 #### All endpoints for the CompanyController are relative to /api/company.
@@ -60,7 +63,18 @@ Company with 21 was not found
  ### Response (201):{
 Created company
 }
-### Response(400 Bad Request){
-Validation failed: 
- -- CompanyName: Company name is required. Severity: Error
+### Response(400 Bad Request){Validation failed: -- CompanyName: Company name is required. Severity: Error}
+
+ #### 4.UpdateCompany
+ #### Request: {
+  "id": 1,
+  "companyName": "string"
 }
+
+ ### Response (201):{
+Created company
+}
+### Response(400 Bad Request){Validation failed: -- CompanyName: Company name is required. Severity: Error}
+
+
+
