@@ -14,8 +14,8 @@
 #### Deletes a company by its id.
 
 ### Endpoints
-#### 1. GET /api/company
-#### Request: GET /api/company
+#### 1. GetAllCompany
+#### Request: GET /api/Company/1
 ### Response (200 OK):[
   {
     "id": 1,
@@ -43,4 +43,13 @@
   }
 ]
 
+#### 1. GetBuId
+#### Request: GET /api/company
+### Response (200 OK):{
+  "id": 1,
+  "companyName": "Aspect"
+}
+### Response (404 Not Found):{
+Company with 21 was not found
+}
  
