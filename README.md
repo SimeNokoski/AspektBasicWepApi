@@ -15,3 +15,4 @@
 ### EndPoints
 #### 1.GetAllCompany
 ##### Route: GET api/Company Description: Retrievs a list of all companies
+## Proba
