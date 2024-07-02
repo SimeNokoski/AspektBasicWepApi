@@ -3,9 +3,9 @@
 ### Routes
 #### All endpoints for the CompanyController are relative to /api/company.
 ### 1.GET /api/company
-#### Retrieves all companies.
+  Retrieves all companies.
 ### 2.GET /api/company/{id}
-#### Retrieves a specific company by its id.
+ Retrieves a specific company by its id.
 ### 3.POST /api/company
 #### Creates a new company.
 ### 4.PUT /api/company
