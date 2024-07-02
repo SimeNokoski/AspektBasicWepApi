@@ -21,122 +21,45 @@ Handles operations related to companies.
 - `GET /api/company`
   - Retrieves all companies.
   - **Request:** None
-  - **Response:** 
-    ```json
-    [
-        {
-            "id": 1,
-            "companyName": "string",
-            ...
-        },
-        ...
-    ]
-    ```
-  - **404 Not Found Response:** 
-    ```json
-    {
-        "statusCode": 404,
-        "message": "No companies found."
-    }
-    ```
-  - **500 Internal Server Error Response:** 
-    ```json
-    {
-        "statusCode": 500,
-        "message": "Internal server error occurred."
-    }
-    ```
+  - **Response:** [
+  {
+    "id": 1,
+    "companyName": "string"
+  },
+  {
+    "id": 2,
+    "companyName": "Samsung"
+  },
+  {
+    "id": 3,
+    "companyName": "Lidl"
+  },
+  {
+    "id": 4,
+    "companyName": "string2"
+  },
+  {
+    "id": 5,
+    "companyName": "string"
+  },
+  {
+    "id": 6,
+    "companyName": "string2"
+  },
+  {
+    "id": 7,
+    "companyName": "Aspect"
+  },
+  {
+    "id": 8,
+    "companyName": "sa"
+  },
+  {
+    "id": 9,
+    "companyName": "string"
+  }
+]
 
-- `GET /api/company/{id}`
-  - Retrieves a company by ID.
-  - **Request:** `/api/company/1`
-  - **Response:** 
-    ```json
-    {
-        "id": 1,
-        "companyName": "string"
-        ...
-    }
-    ```
-  - **404 Not Found Response:** 
-    ```json
-    {
-        "statusCode": 404,
-        "message": "Company with id 1 not found."
-    }
-    ```
-  - **500 Internal Server Error Response:** 
-    ```json
-    {
-        "statusCode": 500,
-        "message": "Internal server error occurred."
-    }
-    ```
-
-- `POST /api/company`
-  - Creates a new company.
-  - **Request:** 
-    ```json
-    {
-        "name": "New Company",
-        "address": "456 Street, City",
-        ...
-    }
-    ```
-  - **Response:** 201 Created
-  - **404 Not Found Response:** Not applicable
-  - **500 Internal Server Error Response:** 
-    ```json
-    {
-        "statusCode": 500,
-        "message": "Internal server error occurred."
-    }
-    ```
-
-- `PUT /api/company`
-  - Updates an existing company.
-  - **Request:** 
-    ```json
-    {
-        "id": 1,
-        "name": "Updated Company A",
-        "address": "456 Street, City",
-        ...
-    }
-    ```
-  - **Response:** 200 OK
-  - **404 Not Found Response:** 
-    ```json
-    {
-        "statusCode": 404,
-        "message": "Company with id 1 not found."
-    }
-    ```
-  - **500 Internal Server Error Response:** 
-    ```json
-    {
-        "statusCode": 500,
-        "message": "Internal server error occurred."
-    }
-    ```
-
-- `DELETE /api/company/{id}`
-  - Deletes a company by ID.
-  - **Request:** `/api/company/1`
-  - **Response:** 200 OK
-  - **404 Not Found Response:** 
-    ```json
-    {
-        "statusCode": 404,
-        "message": "Company with id 1 not found."
-    }
-    ```
-  - **500 Internal Server Error Response:** 
-    ```json
-    {
-        "statusCode": 500,
-        "message": "Internal server error occurred."
-    }
-    ```
+  
 
 
