@@ -12,4 +12,35 @@
 #### Updates an existing company.
 ### 5.DELETE /api/company/{id}
 #### Deletes a company by its id.
+
+### Endpoints
+#### 1. GET /api/company
+#### Request: GET /api/company
+### Response (200 OK):[
+  {
+    "id": 1,
+    "companyName": "Aspect"
+  },
+  {
+    "id": 2,
+    "companyName": "Samsung"
+  },
+  {
+    "id": 3,
+    "companyName": "Lidl"
+  },
+  {
+    "id": 4,
+    "companyName": "string2"
+  },
+  {
+    "id": 5,
+    "companyName": "string"
+  },
+  {
+    "id": 6,
+    "companyName": "string2"
+  }
+]
+
  
