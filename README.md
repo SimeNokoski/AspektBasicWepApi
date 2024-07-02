@@ -24,14 +24,39 @@ Handles operations related to companies.
   - **Response:** 
     ```json
     [
-        {
-            "id": 1,
-            "name": "Company A",
-            "address": "123 Street, City",
-            ...
-        },
-        ...
-    ]
+  {
+    "id": 1,
+    "companyName": "string"
+  },
+  {
+    "id": 2,
+    "companyName": "Samsung"
+  },
+  {
+    "id": 3,
+    "companyName": "Lidl"
+  },
+  {
+    "id": 4,
+    "companyName": "string2"
+  },
+  {
+    "id": 5,
+    "companyName": "string"
+  },
+  {
+    "id": 6,
+    "companyName": "string2"
+  },
+  {
+    "id": 7,
+    "companyName": "Aspect"
+  },
+  {
+    "id": 8,
+    "companyName": "sa"
+  }
+]
     ```
   - **404 Not Found Response:** 
     ```json
