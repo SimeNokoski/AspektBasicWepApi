@@ -30,27 +30,33 @@ Handles operations related to companies.
   },
   {
     "id": 2,
-    "companyName": "Samsung"
+    "companyName": "Samsung",
+  ...
   },
   {
     "id": 3,
-    "companyName": "Lidl"
+    "companyName": "Lidl",
+  ...
   },
   {
     "id": 4,
-    "companyName": "string2"
+    "companyName": "string2",
+  ...
   },
   {
     "id": 5,
-    "companyName": "string"
+    "companyName": "string",
+  ...
   },
   {
     "id": 6,
-    "companyName": "string2"
+    "companyName": "string2",
+  ...
   },
   {
     "id": 7,
-    "companyName": "Aspect"
+    "companyName": "Aspect",
+  ...
   },
   {
     "id": 8,
