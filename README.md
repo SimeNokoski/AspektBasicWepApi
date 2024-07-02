@@ -3,9 +3,9 @@
 ### Routes
 #### All endpoints for the CompanyController are relative to /api/company.
 ### 1.GET /api/company
-  Retrieves all companies.
+#### Retrieves all companies.
 ### 2.GET /api/company/{id}
- Retrieves a specific company by its id.
+####Retrieves a specific company by its id.
 ### 3.POST /api/company
 #### Creates a new company.
 ### 4.PUT /api/company
@@ -43,7 +43,7 @@
   }
 ]
 
-#### 1. GetBuId
+#### 2. GetBuId
 #### Request: GET /api/Company/1
 ### Response (200 OK):{
   "id": 1,
@@ -52,4 +52,15 @@
 ### Response (404 Not Found):{
 Company with 21 was not found
 }
- 
+
+ #### 3.CreateCompany
+ #### Request: {
+  "companyName": "Aspect"
+}
+ ### Response (201):{
+Created company
+}
+### Response(400 Bad Request){
+Validation failed: 
+ -- CompanyName: Company name is required. Severity: Error
+}
