@@ -5,7 +5,8 @@
 ## Technologies Used
 ### Backend
 ##### Pojaznuvanje za ovaa tehnologia
-
+### Frontend
+##### Tekst za ovaj del
 
 
 
