@@ -54,9 +54,11 @@ Handles operations related to companies.
   },
   {
     "id": 8,
-    "companyName": "sa"
+    "companyName": "sa",
+  ...
   }
-]
+  ...
+...
     ```
   - **404 Not Found Response:** 
     ```json
