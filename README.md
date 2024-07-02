@@ -10,79 +10,134 @@
 
 
 
-## CompanyControler
-### Routes
-#### All endpoints for the CompanyController are relative to /api/company.
-### 1.GET /api/company
-#### Retrieves all companies.
-### 2.GET /api/company/{id}
-####Retrieves a specific company by its id.
-### 3.POST /api/company
-#### Creates a new company.
-### 4.PUT /api/company
-#### Updates an existing company.
-### 5.DELETE /api/company/{id}
-#### Deletes a company by its id.
+## Controllers
 
-### Endpoints
-#### 1. GetAllCompany
-#### Request: GET /api/company
-### Response (200 OK):[
-  {
-    "id": 1,
-    "companyName": "Aspect"
-  },
-  {
-    "id": 2,
-    "companyName": "Samsung"
-  },
-  {
-    "id": 3,
-    "companyName": "Lidl"
-  },
-  {
-    "id": 4,
-    "companyName": "string2"
-  },
-  {
-    "id": 5,
-    "companyName": "string"
-  },
-  {
-    "id": 6,
-    "companyName": "string2"
-  }
-]
+### CompanyController
 
-#### 2. GetBuId
-#### Request: GET /api/Company/1
-### Response (200 OK):{
-  "id": 1,
-  "companyName": "Aspect"
-}
-### Response (404 Not Found):{
-Company with 21 was not found
-}
+Handles operations related to companies.
 
- #### 3.CreateCompany
- #### Request: {
-  "companyName": "Aspect"
-}
- ### Response (201):{
-Created company
-}
-### Response(400 Bad Request){Validation failed: -- CompanyName: Company name is required. Severity: Error}
+#### Endpoints:
 
- #### 4.UpdateCompany
- #### Request: {
-  "id": 1,
-  "companyName": "string"
-}
+- `GET /api/company`
+  - Retrieves all companies.
+  - **Request:** None
+  - **Response:** 
+    ```json
+    [
+        {
+            "id": 1,
+            "name": "Company A",
+            "address": "123 Street, City",
+            ...
+        },
+        ...
+    ]
+    ```
+  - **404 Not Found Response:** 
+    ```json
+    {
+        "statusCode": 404,
+        "message": "No companies found."
+    }
+    ```
+  - **500 Internal Server Error Response:** 
+    ```json
+    {
+        "statusCode": 500,
+        "message": "Internal server error occurred."
+    }
+    ```
 
- ### Response (201):{
-Created company
-}
-### Response(400 Bad Request){Validation failed: -- CompanyName: Company name is required. Severity: Error}
+- `GET /api/company/{id}`
+  - Retrieves a company by ID.
+  - **Request:** `/api/company/1`
+  - **Response:** 
+    ```json
+    {
+        "id": 1,
+        "name": "Company A",
+        "address": "123 Street, City",
+        ...
+    }
+    ```
+  - **404 Not Found Response:** 
+    ```json
+    {
+        "statusCode": 404,
+        "message": "Company with id 1 not found."
+    }
+    ```
+  - **500 Internal Server Error Response:** 
+    ```json
+    {
+        "statusCode": 500,
+        "message": "Internal server error occurred."
+    }
+    ```
 
+- `POST /api/company`
+  - Creates a new company.
+  - **Request:** 
+    ```json
+    {
+        "name": "New Company",
+        "address": "456 Street, City",
+        ...
+    }
+    ```
+  - **Response:** 201 Created
+  - **404 Not Found Response:** Not applicable
+  - **500 Internal Server Error Response:** 
+    ```json
+    {
+        "statusCode": 500,
+        "message": "Internal server error occurred."
+    }
+    ```
 
+- `PUT /api/company`
+  - Updates an existing company.
+  - **Request:** 
+    ```json
+    {
+        "id": 1,
+        "name": "Updated Company A",
+        "address": "456 Street, City",
+        ...
+    }
+    ```
+  - **Response:** 200 OK
+  - **404 Not Found Response:** 
+    ```json
+    {
+        "statusCode": 404,
+        "message": "Company with id 1 not found."
+    }
+    ```
+  - **500 Internal Server Error Response:** 
+    ```json
+    {
+        "statusCode": 500,
+        "message": "Internal server error occurred."
+    }
+    ```
+
+- `DELETE /api/company/{id}`
+  - Deletes a company by ID.
+  - **Request:** `/api/company/1`
+  - **Response:** 200 OK
+  - **404 Not Found Response:** 
+    ```json
+    {
+        "statusCode": 404,
+        "message": "Company with id 1 not found."
+    }
+    ```
+  - **500 Internal Server Error Response:** 
+    ```json
+    {
+        "statusCode": 500,
+        "message": "Internal server error occurred."
+    }
+    ```
 
