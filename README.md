@@ -24,7 +24,7 @@ Handles operations related to companies.
   - **Response:** 
     ```json
     [
-  {
+         {
     "id": 1,
     "companyName": "string"
   },
@@ -54,11 +54,14 @@ Handles operations related to companies.
   },
   {
     "id": 8,
-    "companyName": "sa",
-  ...
+    "companyName": "sa"
+  },
+  {
+    "id": 9,
+    "companyName": "string"
   }
-  ...
-...
+        ...
+    ]
     ```
   - **404 Not Found Response:** 
     ```json
@@ -167,4 +170,5 @@ Handles operations related to companies.
         "message": "Internal server error occurred."
     }
     ```
+
 
