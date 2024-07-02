@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\BasicWepAPI\\BasicWepAPI.Services\\BasicWepAPI.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\BasicWepAPI\\BasicWepAPI.Core\\BasicWepAPI.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\BasicWepAPI\\BasicWepAPI.Core\\BasicWepAPI.Core.csproj",
+        "projectName": "BasicWepAPI.Core",
+        "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\BasicWepAPI\\BasicWepAPI.Core\\BasicWepAPI.Core.csproj",
+        "packagesPath": "C:\\Users\\simen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\BasicWepAPI\\BasicWepAPI.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\simen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\BasicWepAPI\\BasicWepAPI.Services\\BasicWepAPI.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\BasicWepAPI\\BasicWepAPI.Services\\BasicWepAPI.Services.csproj",
+        "projectName": "BasicWepAPI.Services",
+        "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\BasicWepAPI\\BasicWepAPI.Services\\BasicWepAPI.Services.csproj",
+        "packagesPath": "C:\\Users\\simen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\BasicWepAPI\\BasicWepAPI.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\simen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\BasicWepAPI\\BasicWepAPI.Core\\BasicWepAPI.Core.csproj": {
+                "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\Aspekt\\New folder\\AspektBasicWepApi\\BasicWepAPI\\BasicWepAPI.Core\\BasicWepAPI.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.4.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.4.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.10.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

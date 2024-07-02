@@ -1,0 +1,146 @@
+
+02:37:22 [Information] () ContactWithCompanyAndCountry successful
+
+02:48:05 [Information] () FilterContacts successful for countryId 2 and companyId 
+
+04:29:01 [Information] () GetAllCompany successful
+
+04:46:45 [Information] () GetAllCompany successful
+
+10:57:24 [Information] () GetAllCompany successful
+
+10:57:38 [Information] () CreateCompany successful
+
+10:57:49 [Information] () UpdateCompany successful
+
+10:57:57 [Information] () GetCompanyById successful for id 2
+
+10:58:02 [Information] () DeleteCompany successful for id 2
+
+10:58:13 [Information] () GetAllContacts successful
+
+11:00:01 [Information] () GetContactById successful for id 2
+
+11:00:01 [Error] () Contact with id 2 not found
+BasicWepAPI.Services.Helper.CustomExceptions.DataNotFoundException: Contact with 2 was not found
+   at BasicWepAPI.Services.ContactService.GetContactById(Int32 id) in C:\Users\simen\OneDrive\Desktop\Aspect\BasicWepAPI\BasicWepAPI.Services\ContactService.cs:line 96
+   at BasicWepAPI.Api.Controllers.ContactController.GetContactById(Int32 id) in C:\Users\simen\OneDrive\Desktop\Aspect\BasicWepAPI\BasicWepAPI.Api\Controllers\ContactController.cs:line 46
+
+11:00:05 [Information] () GetContactById successful for id 10
+
+11:00:12 [Error] () Contact with id 11 not found
+BasicWepAPI.Services.Helper.CustomExceptions.DataNotFoundException: Contact with 11 was not found
+   at BasicWepAPI.Services.ContactService.DeleteContact(Int32 id) in C:\Users\simen\OneDrive\Desktop\Aspect\BasicWepAPI\BasicWepAPI.Services\ContactService.cs:line 53
+   at BasicWepAPI.Api.Controllers.ContactController.DeleteContact(Int32 id) in C:\Users\simen\OneDrive\Desktop\Aspect\BasicWepAPI\BasicWepAPI.Api\Controllers\ContactController.cs:line 115
+
+11:00:16 [Information] () DeleteContact successful for id 10
+
+11:00:21 [Information] () ContactWithCompanyAndCountry successful
+
+11:00:28 [Information] () FilterContacts successful for countryId 2 and companyId 
+
+11:00:41 [Information] () GetAllCountry successful
+
+11:00:47 [Information] () CreateCountry successful
+
+11:00:59 [Information] () GetCountryById successful for id 2
+
+11:04:52 [Information] () GetAllCompany successful
+
+11:05:08 [Information] () CreateCompany successful
+
+11:05:19 [Information] () CreateCountry successful
+
+11:05:45 [Information] () FilterContacts successful for countryId 2 and companyId 2
+
+11:05:57 [Information] () GetAllContacts successful
+
+11:13:19 [Information] () GetAllCompany successful
+
+11:45:29 [Information] () GetAllCompany successful
+
+11:48:35 [Information] () GetAllCompany successful
+
+11:50:02 [Information] () CreateCompany successful
+
+11:50:14 [Information] () CreateCountry successful
+
+11:50:48 [Information] () GetAllContacts successful
+
+12:03:05 [Information] () GetAllCompany successful
+
+12:03:55 [Information] () GetContactById successful for id 1
+
+12:07:24 [Information] () GetAllCompany successful
+
+12:27:53 [Information] () GetAllCompany successful
+
+12:33:08 [Information] () GetAllCompany successful
+
+12:35:01 [Information] () CreateCompany successful
+
+12:35:35 [Information] () GetCompanyById successful for id 1
+
+12:42:01 [Information] () GetAllCompany successful
+
+12:43:17 [Information] () GetCompanyById successful for id 1
+
+12:51:37 [Information] () GetAllCompany successful
+
+12:53:04 [Information] () GetAllCompany successful
+
+12:53:16 [Information] () GetContactById successful for id 2
+
+12:54:23 [Information] () GetAllCompany successful
+
+12:54:41 [Information] () GetCompanyById successful for id 1
+
+12:59:33 [Information] () GetAllCompany successful
+
+13:11:57 [Information] () GetAllCompany successful
+
+13:12:15 [Information] () GetCompanyById successful for id 1
+
+13:30:48 [Information] () GetAllCompany successful
+
+13:36:14 [Information] () GetAllCompany successful
+
+13:44:55 [Information] () GetAllCompany successful
+
+13:45:20 [Information] () GetAllCompany successful
+
+13:45:34 [Information] () CreateCompany successful
+
+13:46:01 [Information] () GetCompanyById successful for id 1
+
+14:07:10 [Information] () GetAllCompany successful
+
+19:41:45 [Information] () FilterContacts successful for countryId  and companyId 
+
+19:43:03 [Information] () GetAllContacts successful
+
+19:43:50 [Information] () FilterContacts successful for countryId  and companyId 
+
+19:44:25 [Information] () FilterContacts successful for countryId 2 and companyId 2
+
+19:44:30 [Information] () FilterContacts successful for countryId 1 and companyId 2
+
+19:44:39 [Information] () FilterContacts successful for countryId  and companyId 
+
+19:45:49 [Information] () FilterContacts successful for countryId  and companyId 
+
+19:46:14 [Information] () FilterContacts successful for countryId  and companyId 
+
+19:46:47 [Information] () FilterContacts successful for countryId  and companyId 
+
+19:47:59 [Information] () FilterContacts successful for countryId  and companyId 
+
+19:48:23 [Information] () FilterContacts successful for countryId 1 and companyId 
+
+19:48:57 [Information] () FilterContacts successful for countryId  and companyId 2
+
+19:49:08 [Information] () FilterContacts successful for countryId 1 and companyId 2
+
+20:39:05 [Information] () GetAllCompany successful
+
+20:39:16 [Information] () GetAllContacts successful
