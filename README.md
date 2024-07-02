@@ -15,7 +15,7 @@
 
 ### Endpoints
 #### 1. GetAllCompany
-#### Request: GET /api/Company/1
+#### Request: GET /api/company
 ### Response (200 OK):[
   {
     "id": 1,
@@ -44,7 +44,7 @@
 ]
 
 #### 1. GetBuId
-#### Request: GET /api/company
+#### Request: GET /api/Company/1
 ### Response (200 OK):{
   "id": 1,
   "companyName": "Aspect"
